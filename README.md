@@ -1,2 +1,1 @@
-# exercio-ano-copa
-exercício ano copa
+# exercicio-ano-copa 
